@@ -1,0 +1,14 @@
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\bin\Debug\net9.0\Lynkurs.exe
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\bin\Debug\net9.0\Lynkurs.deps.json
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\bin\Debug\net9.0\Lynkurs.runtimeconfig.json
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\bin\Debug\net9.0\Lynkurs.dll
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\bin\Debug\net9.0\Lynkurs.pdb
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.AssemblyInfoInputs.cache
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.AssemblyInfo.cs
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.csproj.CoreCompileInputs.cache
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.dll
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\refint\Lynkurs.dll
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.pdb
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.genruntimeconfig.cache
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\ref\Lynkurs.dll
