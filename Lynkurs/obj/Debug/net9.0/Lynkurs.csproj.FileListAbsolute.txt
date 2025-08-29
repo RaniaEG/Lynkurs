@@ -12,3 +12,4 @@ C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\refint\Lynkurs.dl
 C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.pdb
 C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.genruntimeconfig.cache
 C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\ref\Lynkurs.dll
+C:\Users\raniafe\source\repos\Lynkurs\Lynkurs\obj\Debug\net9.0\Lynkurs.sourcelink.json

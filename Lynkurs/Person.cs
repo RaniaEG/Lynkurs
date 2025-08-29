@@ -80,5 +80,16 @@ namespace Lynkurs
             int num = 2;
             Console.WriteLine($"{this.name} spiser {mat}");
         }
+
+        // Introduce metode er virtual og skal overrides i barneklassene
+        public virtual void Introduce()
+        {
+            // Set PersonName if true, otherwise use the 'ukjent' string if false
+            string displayName = !string.IsNullOrWhiteSpace(PersonName) ? PersonName : "Ukjent";
+
+            // Set PersonAge if true, otherwise use the '0' value if false
+            int displayAge = PersonAge > 0 ? PersonAge : 0;
+            Console.WriteLine($"Hei! Jeg heter {displayName} og er {displayAge} år gammel.");
+        }
     }
 }

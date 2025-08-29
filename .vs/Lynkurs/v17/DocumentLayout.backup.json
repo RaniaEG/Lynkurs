@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,25 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Student.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\Student.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Student.cs",
+              "RelativeToolTip": "Lynkurs\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T11:19:36.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Teacher.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\Teacher.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Teacher.cs",
+              "RelativeToolTip": "Lynkurs\\Teacher.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:07:27.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Person.cs",
               "RelativeDocumentMoniker": "Lynkurs\\Person.cs",
-              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Person.cs*",
-              "RelativeToolTip": "Lynkurs\\Person.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Person.cs",
+              "RelativeToolTip": "Lynkurs\\Person.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T13:48:48.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Program.cs",
               "RelativeDocumentMoniker": "Lynkurs\\Program.cs",
-              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Program.cs*",
-              "RelativeToolTip": "Lynkurs\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Program.cs",
+              "RelativeToolTip": "Lynkurs\\Program.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAKIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T13:48:11.888Z",
               "EditorCaption": ""
