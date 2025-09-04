@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\universitetstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\universitetstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\ipersonreise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\ipersonreise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\abperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\abperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\ansatte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\ansatte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\l\u00E6rer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\l\u00E6rer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\abclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\abclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\abclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\abclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|c:\\users\\raniafe\\source\\repos\\lynkurs\\lynkurs\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4497BD-5979-4952-B068-E27250B0E5F0}|Lynkurs\\Lynkurs.csproj|solutionrelative:lynkurs\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +66,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersonReise.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\IPersonReise.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\IPersonReise.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\IPersonReise.cs",
+              "RelativeToolTip": "Lynkurs\\IPersonReise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:44:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UniversitetStudent.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\UniversitetStudent.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\UniversitetStudent.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\UniversitetStudent.cs*",
+              "RelativeToolTip": "Lynkurs\\UniversitetStudent.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:38:43.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "L\u00E6rer.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\L\u00E6rer.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\L\u00E6rer.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\L\u00E6rer.cs",
+              "RelativeToolTip": "Lynkurs\\L\u00E6rer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:31:11.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ansatte.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Ansatte.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\Ansatte.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Ansatte.cs",
+              "RelativeToolTip": "Lynkurs\\Ansatte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:26:26.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbPerson.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\AbPerson.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\AbPerson.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\AbPerson.cs",
+              "RelativeToolTip": "Lynkurs\\AbPerson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:19:32.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbClass2.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\AbClass2.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\AbClass2.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\AbClass2.cs",
+              "RelativeToolTip": "Lynkurs\\AbClass2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T08:54:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Program.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\Program.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Program.cs",
+              "RelativeToolTip": "Lynkurs\\Program.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAIwNwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:48:11.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AbClass1.cs",
+              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\AbClass1.cs",
+              "RelativeDocumentMoniker": "Lynkurs\\AbClass1.cs",
+              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\AbClass1.cs",
+              "RelativeToolTip": "Lynkurs\\AbClass1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T08:51:27.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Student.cs",
               "RelativeDocumentMoniker": "Lynkurs\\Student.cs",
@@ -46,47 +178,32 @@
               "RelativeToolTip": "Lynkurs\\Student.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T11:19:36.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T11:19:36.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Teacher.cs",
               "RelativeDocumentMoniker": "Lynkurs\\Teacher.cs",
               "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Teacher.cs",
               "RelativeToolTip": "Lynkurs\\Teacher.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T19:07:27.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Person.cs",
               "RelativeDocumentMoniker": "Lynkurs\\Person.cs",
               "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Person.cs",
               "RelativeToolTip": "Lynkurs\\Person.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFkAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAxwEwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T13:48:48.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Program.cs",
-              "RelativeDocumentMoniker": "Lynkurs\\Program.cs",
-              "ToolTip": "C:\\Users\\raniafe\\source\\repos\\Lynkurs\\Lynkurs\\Program.cs",
-              "RelativeToolTip": "Lynkurs\\Program.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAAAKIAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T13:48:11.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T13:48:48.302Z"
             }
           ]
         },

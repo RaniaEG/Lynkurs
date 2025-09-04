@@ -188,29 +188,35 @@ persons.Add(new Person { PersonName = "Espen", PersonAge = 17 });
 // Inheritance + method overrides
 
 // Create object of type Student
-Student s1 = new Student
-{
-    PersonName = "Sindre",
-    PersonAge = 19,
-    CoursesTaken = new List<string> { "Databases", "Object-Oriented Programming", "Algorithms" }
-};
+//Student s1 = new Student
+//{
+//    PersonName = "Sindre",
+//    PersonAge = 19,
+//    CoursesTaken = new List<string> { "Databases", "Object-Oriented Programming", "Algorithms" }
+//};
 
 // Create object of type Teacher
-Teacher t1 = new Teacher { PersonName = "David", PersonAge = 45, Subject = "Mathematics" };
+//Teacher t1 = new Teacher { PersonName = "David", PersonAge = 45, Subject = "Mathematics" };
 
 // Polymorphic list (base type references, derived instances)
-List<Person> schoolPeople = new List<Person>();
-schoolPeople.Add(s1);
-schoolPeople.Add(t1);
-schoolPeople.Add(p1);
+//List<Person> schoolPeople = new List<Person>();
+//schoolPeople.Add(s1);
+//schoolPeople.Add(t1);
+//schoolPeople.Add(p1);
 
 // Which Introduce() method will be executed ????
-foreach (Person person in schoolPeople)
-{
-    person.Introduce();
+//foreach (Person person in schoolPeople)
+//{
+//    person.Introduce();
 
-}
+//}
 
 
-
+Lærer l = new Lærer();
+l.AbName = "Espen";
+l.AbAlder = 30;
+l.Kurs = "IS-202";
+l.AbIntroduce();
+l.GjørArbeidsOppgaver();
+l.Register(2020);
 

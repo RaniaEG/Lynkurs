@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lynkurs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b09207232bc6e20692da3cd1c62a167eb7098ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce324bbe24595289e6baa57f11a3e1c032636b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lynkurs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lynkurs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
